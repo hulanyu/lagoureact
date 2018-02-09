@@ -1,0 +1,73 @@
+#headers{
+	height: 45px;
+    line-height: 45px;
+    background-color: #00b38a;
+    color: #fff;
+    font-size: 1.8rem;
+    text-align: center;
+    position: relative;
+}
+#headers .left{
+	color:#fff;
+	float:left;
+	text-decoration: none;
+}
+.infos{
+    height: 125px;
+    line-height: 125px;
+    color: #00b38a;
+    font-size: 1.9rem;
+    text-align: center;
+    border-bottom: 1px solid #e8e8e8;
+    background-color: #f6f6f6;
+}
+.rinputer{
+	height: 60px;
+    line-height: 60px;
+    border: 1px solid #e8e8e8;
+    border-top: none;
+}
+.rinputer .inputer{
+	display: inline-block;
+	height: 50px;
+	line-height: 50px;
+    margin-left: 23px;
+    font-size: 1.5rem;
+    width: 70%;
+    float: left;
+    border: 0;
+}
+.rinputer .button{
+    width: 60px;
+    border:none;
+    float: right;
+    border-left: 1px solid #e8e8e8;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #c2cfcc;
+}
+.item{
+	height: 44px;
+    line-height: 44px;
+    color: #666;
+    font-size: 1.4rem;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 15px 0 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.styl{
+    margin: 10px 0 20px 0;
+    text-align: center;
+    height: 62.5px;
+    line-height: 62.5px;
+    color: #333;
+    font-size: 1.5rem;
+    background-color: #f0f0f0;
+    border-radius: 2px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 0 10px;
+}

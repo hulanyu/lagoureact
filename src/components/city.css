@@ -1,0 +1,30 @@
+.citylist{
+	height: 100%;
+    background-color: #fff;
+    overflow: scroll;
+}
+.citylist h3{
+	font-weight: 500;
+	font-size: 1.3rem;
+	text-align: left;
+	border-bottom: 1px solid #ccc;
+	height: 25px;
+    line-height: 25px;
+    padding: 0 15px;
+}
+.citylist .cities li{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	border-bottom: 1px solid #ccc;
+
+}
+.citylist .cities li b{
+	font-weight: normal;
+	font-size: 1.5rem;
+	width: 33%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	display: inline-block;
+}

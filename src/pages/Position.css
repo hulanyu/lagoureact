@@ -1,0 +1,38 @@
+.infol{
+	border-bottom: 1px solid #e8e8e8;
+    height: 43px;
+    line-height: 43px;
+    padding: 0 15px;
+    color: #555;
+    font-size: 1.4rem;
+    position: relative;
+}
+.infol .hed{
+	text-align: left;
+	display: inline-block;
+}
+.infol .hedr{
+	position: absolute;
+    right: 15px;
+    top: 0;
+    display: block;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 0 20px;
+    height: 30px;
+    line-height: 30px;
+    margin-top: 6px;
+    color: #00b38a;
+    border-radius: 15px;
+}
+.list{
+	margin-bottom: 20rem
+}
+.spn{
+	text-align: center;
+    width: 100%;
+    padding-top: 1rem;
+	font-size: 1.4rem;
+    display: inline-block;
+    margin-bottom: 10rem
+}

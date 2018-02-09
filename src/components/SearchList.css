@@ -1,0 +1,52 @@
+.contentl{
+  border: 1px solid #cccccc;
+}
+.contentl span{
+    height: 45px;
+    line-height: 45px;
+    font-size: 1.5rem;
+    text-align: center;
+    width: 88px;
+    border-right: 1px solid #e8e8e8;
+    display: inline-block;
+}
+.contentl input{
+	border: none;
+    padding: 10px 0;
+    height: 25px;
+    line-height: 25px;
+    color: #333333;
+    width: 57%;
+    margin: 0 0 0 5%;
+    font-size: 1.5rem;
+}
+.btnl{
+    display: inline-block;
+    margin: 14px auto 0 auto;
+    width: 17px;
+    height: 17px;
+    background: url(../image/icon2.png) no-repeat -14px -2.5px;
+    background-size: 250px 250px;
+    border: 0;
+}
+.history{
+    height: 45px;
+    line-height: 45px;
+    font-size: 1.4rem;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 23px;
+    color: #666666;
+    background: #f6f6f6;
+}
+.history .txt{
+    display: inline-block;
+    height: 45px;
+    overflow: hidden;
+    width: 75%;
+}
+.history .deli{
+    display: inline-block;
+    height: 10px;
+    width: 12px;
+    float: right;
+}
